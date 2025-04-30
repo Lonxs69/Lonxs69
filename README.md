@@ -7,7 +7,7 @@
 ## 📊 GitHub Stats 📊:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lonxs69&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-  ## 💰 Puedes ayudarme con mi SetUp 💰
+  ## 💰 Ayudame con mi SetUp! 💰
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/JuniorDeLeonFigueroa) 
 
   
