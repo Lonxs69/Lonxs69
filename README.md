@@ -10,5 +10,10 @@
   ## 💰 Ayudame con mi SetUp! 💰
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/JuniorDeLeonFigueroa) 
 
+    
+  <br>
   
+  <img src="https://komarev.com/ghpvc/?username=Samdevvv&color=blueviolet&style=for-the-badge" alt="Profile views"/>
+  
+  <br><br>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
