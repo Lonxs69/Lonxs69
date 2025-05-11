@@ -14,8 +14,9 @@
 
     
   <br>
+  <center>
   
   <img src="https://komarev.com/ghpvc/?username=Samdevvv&color=blueviolet&style=for-the-badge" alt="Profile views"/>
-  
-  <br><br>
+  </center>
+  <br>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
