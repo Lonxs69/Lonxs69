@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=2E3A59&height=200&section=header&text=Bienvenido%20a%20mi%20Portfolio&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20C%23%20y%20Full%20Stack&descAlignY=58&descAlign=50)
+  ![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=8F9CB3&height=200&section=header&text=Desarrollador%20Full%20Stack&fontSize=50&animation=fadeIn&fontAlignY=38)
 
   [![GitHub followers](https://img.shields.io/github/followers/Lonxs69?logo=github&style=for-the-badge&color=blueviolet&labelColor=333333)](https://github.com/Lonxs69?tab=followers)
   [![Profile views](https://komarev.com/ghpvc/?username=Lonxs69&color=blueviolet&style=for-the-badge)](https://github.com/Lonxs69)
@@ -66,7 +66,7 @@
 
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2E3A59&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8F9CB3&height=100&section=footer" width="100%"/>
   
 </div>
 
