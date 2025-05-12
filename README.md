@@ -42,7 +42,7 @@
 
 
 
-## 💰 Apoya Mi Trabajo 💰
+##
 
 <div align="center">
   
