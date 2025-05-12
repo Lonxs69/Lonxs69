@@ -1,7 +1,8 @@
+# 🚀 Portfolio de Desarrollo 🚀
+
 <div align="center">
   
   ![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=8F9CB3&height=200&section=header&text=Desarrollador%20Full%20Stack&fontSize=50&animation=fadeIn&fontAlignY=38)
-
   
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juniiordeleon5@gmail.com)
   [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/pNtYw4cA)
@@ -10,17 +11,15 @@
   <br>
   
   [![Profile views](https://komarev.com/ghpvc/?username=Lonxs69&color=blueviolet&style=for-the-badge)](https://github.com/Lonxs69)
-
-  
   
 </div>
 
-  ##
+##
 
 <div align="center">
   
   ### 💻 Stack Tecnológico 💻
-  <hr width="50%" style="border: 1px solid #ccc;">
+<hr width="50%" style="border: 1px solid #ccc;">
   
   ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -39,8 +38,6 @@
   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
   
 </div>
-
-
 
 ##
 
