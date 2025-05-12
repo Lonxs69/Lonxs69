@@ -1,12 +1,6 @@
 <div align="center">
   
   ![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=8F9CB3&height=200&section=header&text=Desarrollador%20Full%20Stack&fontSize=50&animation=fadeIn&fontAlignY=38)
-
-  [![GitHub followers](https://img.shields.io/github/followers/Lonxs69?logo=github&style=for-the-badge&color=blueviolet&labelColor=333333)](https://github.com/Lonxs69?tab=followers)
-  [![Profile views](https://komarev.com/ghpvc/?username=Lonxs69&color=blueviolet&style=for-the-badge)](https://github.com/Lonxs69)
-  
-  <img src="https://raw.githubusercontent.com/Lonxs69/Lonxs69/main/moonknight_avatar.png" width="150" height="150" style="border-radius:50%;" alt="Avatar"/>
-  
 </div>
 
 ## 🌐 Conecta Conmigo 🌐
