@@ -1,5 +1,3 @@
-# 🚀 Portfolio de Desarrollo 🚀
-
 <div align="center">
   
   ![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=8F9CB3&height=200&section=header&text=Desarrollador%20Full%20Stack&fontSize=50&animation=fadeIn&fontAlignY=38)
