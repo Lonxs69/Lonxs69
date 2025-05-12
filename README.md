@@ -1,3 +1,5 @@
+# 🚀 Portfolio de Desarrollo 🚀
+
 <div align="center">
   
   ![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=8F9CB3&height=200&section=header&text=Desarrollador%20Full%20Stack&fontSize=50&animation=fadeIn&fontAlignY=38)
@@ -16,7 +18,7 @@
 
 <div align="center">
   
-  ### 💻 Stack Tecnológico 💻
+  ## 💻 Stack Tecnológico 💻
 <hr width="50%" style="border: 1px solid #ccc;">
   
   ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
