@@ -15,7 +15,7 @@
   
 </div>
 
-  ### 💻 Stack Tecnológico 💻
+  ## 💻 Stack Tecnológico 💻
 
 <div align="center">
   
