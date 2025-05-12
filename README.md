@@ -2,10 +2,12 @@
 
 <div align="center">
   
-  ![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=200&section=header&text=Bienvenido%20a%20mi%20Portfolio&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20C%23%20y%20Full%20Stack&descAlignY=58&descAlign=50)
+  ![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=2E3A59&height=200&section=header&text=Bienvenido%20a%20mi%20Portfolio&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20C%23%20y%20Full%20Stack&descAlignY=58&descAlign=50)
 
   [![GitHub followers](https://img.shields.io/github/followers/Lonxs69?logo=github&style=for-the-badge&color=blueviolet&labelColor=333333)](https://github.com/Lonxs69?tab=followers)
   [![Profile views](https://komarev.com/ghpvc/?username=Lonxs69&color=blueviolet&style=for-the-badge)](https://github.com/Lonxs69)
+  
+  <img src="https://raw.githubusercontent.com/Lonxs69/Lonxs69/main/moonknight_avatar.png" width="150" height="150" style="border-radius:50%;" alt="Moon Knight Avatar"/>
   
 </div>
 
@@ -33,6 +35,8 @@
   ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   
   ### Frameworks y Herramientas
   ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
@@ -62,7 +66,7 @@
 
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2E3A59&height=100&section=footer" width="100%"/>
   
 </div>
 
