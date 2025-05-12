@@ -15,11 +15,11 @@
   
 </div>
 
-## 💻 Stack Tecnológico 💻
+
 
 <div align="center">
   
-  ### Lenguajes de Programación
+  ### ## 💻 Stack Tecnológico 💻
   
   <hr width="50%" style="border: 1px solid #ccc;">
   
