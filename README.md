@@ -7,7 +7,7 @@
   [![GitHub followers](https://img.shields.io/github/followers/Lonxs69?logo=github&style=for-the-badge&color=blueviolet&labelColor=333333)](https://github.com/Lonxs69?tab=followers)
   [![Profile views](https://komarev.com/ghpvc/?username=Lonxs69&color=blueviolet&style=for-the-badge)](https://github.com/Lonxs69)
   
-  <img src="https://raw.githubusercontent.com/Lonxs69/Lonxs69/main/moonknight_avatar.png" width="150" height="150" style="border-radius:50%;" alt="Moon Knight Avatar"/>
+  <img src="https://raw.githubusercontent.com/Lonxs69/Lonxs69/main/moonknight_avatar.png" width="150" height="150" style="border-radius:50%;" alt="Avatar"/>
   
 </div>
 
@@ -17,6 +17,11 @@
   
   [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/pNtYw4cA)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_lonxs)
+  
+  <br>
+  
+  [![Profile views](https://komarev.com/ghpvc/?username=Lonxs69&color=blueviolet&style=for-the-badge)](https://github.com/Lonxs69)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juniiordeleon5@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lonxs69)
   
 </div>
