@@ -2,6 +2,7 @@
   
   ![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=8F9CB3&height=200&section=header&text=Desarrollador%20Full%20Stack&fontSize=50&animation=fadeIn&fontAlignY=38)
 
+---
   
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juniiordeleon5@gmail.com)
   [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/pNtYw4cA)
