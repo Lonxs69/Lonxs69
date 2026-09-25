@@ -33,15 +33,6 @@
 
 ##
 
-<div align="center">
-  
-  Si te gusta mi trabajo, Puedes apoyarme para seguir mejorando mi setup de desarrollo:
-  
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/JuniorDeLeonFigueroa)
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/)
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/)
-  
-</div>
 
 ---
 
