@@ -31,11 +31,6 @@
   
 </div>
 
-##
-
-
----
-
 <div align="center">
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8F9CB3&height=100&section=footer" width="100%"/>
