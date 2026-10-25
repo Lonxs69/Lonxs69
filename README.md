@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Lonxs69 · Desarrollador Full Stack" />
+<img src="assets/header.svg" width="100%" alt="Lonxs69 · Desarrollador y DevOps" />
 
 <br />
 
@@ -22,19 +22,13 @@
       <sub>Toolkit de auditoría de seguridad de redes para macOS, en una sola terminal</sub>
     </td>
     <td align="center" width="33%">
-      <b>Odoo + IA</b><br />
-      <sub>Módulos a medida para Odoo y bots de WhatsApp con inteligencia artificial</sub>
+      <b><a href="https://vredo.vercel.app/">Vredo</a></b><br />
+      <sub>App de transporte hecha en República Dominicana: motor, carro, metro y OMSA en una sola app, con IA que entiende direcciones</sub>
     </td>
   </tr>
 </table>
 
 <br />
-
-### ⚙️ Stack tecnológico
-
-<img src="https://skillicons.dev/icons?i=cs,cpp,js,php,py,nodejs,css,react,nextjs,dotnet,npm,firebase,git,aws,terraform,matlab&perline=8&theme=dark" alt="Stack tecnológico" />
-
-<br /><br />
 
 ### 🧊 Contribuciones en 3D
 

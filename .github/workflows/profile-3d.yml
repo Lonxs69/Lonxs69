@@ -18,6 +18,11 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
           SETTING_JSON: .github/profile-3d.json
+      - name: Animar calendario y lenguajes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+        run: python3 .github/scripts/animar.py profile-3d-contrib/profile-3d.svg
       # Se publica en la rama "output" para no ensuciar el historial de main
       - name: Publicar en la rama output
         env:
