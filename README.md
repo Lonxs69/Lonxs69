@@ -1,40 +1,47 @@
 <div align="center">
-  
-  ![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=8F9CB3&height=200&section=header&text=Desarrollador%20Full%20Stack&fontSize=50&animation=fadeIn&fontAlignY=38)
-<br>
-  
-  [![Profile views](https://komarev.com/ghpvc/?username=Lonxs69&color=blueviolet&style=for-the-badge)](https://github.com/Lonxs69)
-  
+
+<img src="assets/header.svg" width="100%" alt="Lonxs69 · Desarrollador Full Stack" />
+
+<br />
+
+[![Profile views](https://komarev.com/ghpvc/?username=Lonxs69&color=blueviolet&style=for-the-badge)](https://github.com/Lonxs69)
+[![Portafolio](https://img.shields.io/badge/Portafolio-1c1830?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-web-flax-xi.vercel.app/)
+
+<br />
+
+### 🛰️ En qué ando
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <b><a href="https://github.com/Lonxs69/LonxsLocate">LonxsLocate</a></b><br />
+      <sub>Redes satelitales LEO/GEO para la República Dominicana rural · Python, MATLAB, AWS y Terraform</sub>
+    </td>
+    <td align="center" width="33%">
+      <b><a href="https://github.com/Lonxs69/LonxsGuard">LonxsGuard</a></b><br />
+      <sub>Toolkit de auditoría de seguridad de redes para macOS, en una sola terminal</sub>
+    </td>
+    <td align="center" width="33%">
+      <b>Odoo + IA</b><br />
+      <sub>Módulos a medida para Odoo y bots de WhatsApp con inteligencia artificial</sub>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+### ⚙️ Stack tecnológico
+
+<img src="https://skillicons.dev/icons?i=cs,cpp,js,php,py,nodejs,css,react,nextjs,dotnet,npm,firebase,git,aws,terraform,matlab&perline=8&theme=dark" alt="Stack tecnológico" />
+
+<br /><br />
+
+### 🧊 Contribuciones en 3D
+
+<img src="https://raw.githubusercontent.com/Lonxs69/Lonxs69/output/profile-3d.svg" width="100%" alt="Calendario de contribuciones en 3D" />
+
+<br />
+
+<img src="assets/footer.svg" width="100%" alt="" />
+
 </div>
-
-##
-
-<div align="center">
-  
- ##  💻 Stack Tecnológico 💻
-  <br>
-  
-  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
-  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  <br>
-  ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
-  ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
-  ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) 
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-  
-</div>
-
-<div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8F9CB3&height=100&section=footer" width="100%"/>
-  
-</div>
-
-<!-- Generado con la ayuda de https://gprm.itsvg.in/ -->
