@@ -12,8 +12,8 @@
 <img src="assets/title-proyectos.svg" width="100%" alt="En qué ando" />
 
 <a href="https://github.com/Lonxs69/LonxsLocate"><img src="assets/card-lonxslocate.svg" width="32%" alt="LonxsLocate" /></a>
-<a href="https://github.com/Lonxs69/LonxsGuard"><img src="assets/card-lonxsguard.svg" width="32%" alt="LonxsGuard" /></a>
 <a href="https://vredo.vercel.app/"><img src="assets/card-vredo.svg" width="32%" alt="Vredo" /></a>
+<a href="https://github.com/Lonxs69/LonxsGuard"><img src="assets/card-lonxsguard.svg" width="32%" alt="LonxsGuard" /></a>
 
 <br />
 
