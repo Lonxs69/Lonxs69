@@ -9,28 +9,15 @@
 
 <br />
 
-### 🛰️ En qué ando
+<img src="assets/title-proyectos.svg" width="100%" alt="En qué ando" />
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <b><a href="https://github.com/Lonxs69/LonxsLocate">LonxsLocate</a></b><br />
-      <sub>Redes satelitales LEO/GEO para la República Dominicana rural · Python, MATLAB, AWS y Terraform</sub>
-    </td>
-    <td align="center" width="33%">
-      <b><a href="https://github.com/Lonxs69/LonxsGuard">LonxsGuard</a></b><br />
-      <sub>Toolkit de auditoría de seguridad de redes para macOS, en una sola terminal</sub>
-    </td>
-    <td align="center" width="33%">
-      <b><a href="https://vredo.vercel.app/">Vredo</a></b><br />
-      <sub>App de transporte hecha en República Dominicana: motor, carro, metro y OMSA en una sola app, con IA que entiende direcciones</sub>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/Lonxs69/LonxsLocate"><img src="assets/card-lonxslocate.svg" width="32%" alt="LonxsLocate" /></a>
+<a href="https://github.com/Lonxs69/LonxsGuard"><img src="assets/card-lonxsguard.svg" width="32%" alt="LonxsGuard" /></a>
+<a href="https://vredo.vercel.app/"><img src="assets/card-vredo.svg" width="32%" alt="Vredo" /></a>
 
 <br />
 
-### 🧊 Contribuciones en 3D
+<img src="assets/title-contribuciones.svg" width="100%" alt="Contribuciones en 3D" />
 
 <img src="https://raw.githubusercontent.com/Lonxs69/Lonxs69/output/profile-3d.svg" width="100%" alt="Calendario de contribuciones en 3D" />
 
